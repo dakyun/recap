@@ -284,7 +284,7 @@ a img {
   }
   .post-item {
     width: 420px;
-    height: 250px;
+    height: auto;
     padding: 40px 12px;
     background: #fff;
     box-sizing: border-box;
@@ -599,11 +599,11 @@ a img {
         }
         strong{
             color:#ff6714;
-            font-size:100px;
+            font-size:92px;
             letter-spacing:-2px;
         }
         p{
-            font-size:32px;
+            font-size:28px;
             color:#ff6714;
             line-height:1.4;
             margin-top:20px;

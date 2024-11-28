@@ -1222,7 +1222,7 @@ header #top-menu {
 
 .layer-popup .post-item {
   width: 420px;
-  height: 250px;
+  height: auto;
   padding: 40px 12px;
   background: #fff;
   -webkit-box-sizing: border-box;
@@ -1632,12 +1632,12 @@ header #top-menu {
 
 .title-box.center strong {
   color: #ff6714;
-  font-size: 100px;
+  font-size: 92px;
   letter-spacing: -2px;
 }
 
 .title-box.center p {
-  font-size: 32px;
+  font-size: 28px;
   color: #ff6714;
   line-height: 1.4;
   margin-top: 20px;
